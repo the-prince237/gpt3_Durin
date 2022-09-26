@@ -1,6 +1,6 @@
 {
   "name": "gpt3-durin",
-  "homepage": "https://the-prince237.github.io/gpt3_Durin/",
+  "homepage": "http://the-prince237.github.io/gpt3_Durin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "github-pages": "^3.0.2"
   }
 }
