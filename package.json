@@ -1,5 +1,6 @@
 {
-  "name": "react-app-scull",
+  "name": "gpt3-durin",
+  "homepage": "http://the-prince237.github.io/gpt3_Durin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
